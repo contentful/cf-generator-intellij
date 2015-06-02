@@ -10,6 +10,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="com.contentful.vault:core:0.9.3" level="project" />
-    <orderEntry type="library" name="com.contentful.generator:generator:0.9.1" level="project" />
+    <orderEntry type="library" name="generator-0.9.2" level="project" />
   </component>
 </module>
